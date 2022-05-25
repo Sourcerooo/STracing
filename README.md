@@ -1,0 +1,2 @@
+# STracing
+Simple Raytracing application
